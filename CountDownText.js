@@ -19,13 +19,14 @@ import {
   StyleSheet,
   Text,
 } from 'react-native';
+import update from 'react-addons-update';
 
 // var {
 //   StyleSheet,
 //   Text,
 // } = React;
 
-var update = React.addons.update,
+//var update = React.addons.update,
     countDown = require('./countDown');
 
 var CountDownText = React.createClass({
