@@ -20,10 +20,10 @@ import {
   Text,
 } from 'react-native';
 
-var {
-  StyleSheet,
-  Text,
-} = React;
+// var {
+//   StyleSheet,
+//   Text,
+// } = React;
 
 var update = React.addons.update,
     countDown = require('./countDown');
