@@ -10,9 +10,15 @@ this.refs.countDownText.start();
 this.refs.countDownText.end();
 */
 
-'use strict'
+//'use strict'
 
-var React = require('react-native');
+//var React = require('react-native');
+
+import React, { Component } from 'react';
+import {
+  StyleSheet,
+  Text,
+} from 'react-native';
 
 var {
   StyleSheet,
